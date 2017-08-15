@@ -2,4 +2,4 @@
 
 ## print the following output in terminal
 
-<img src="time.png"
+<img src="time.png">
